@@ -23,7 +23,7 @@ Trabajamos con angular 16
 
 8º ¿Te preguntarás, donde saco la vapidKey?, muy fácil, en la consola de firebase, lee el punto 7º
 
-9º Ya te olvidas de firebase, ya lo tienes todo, firebase te permitirá mandar una notificación de pruebas, pero ojo, antes revisa otras cosas  [Proxima actualización, añadir un servidor en node.j para crear un backend para el envío de notificaciones]
+9º Ya te olvidas de firebase, ya lo tienes todo, firebase te permitirá mandar una notificación de pruebas, pero ojo, antes revisa otras cosas  [Próxima actualización, añadir un servidor en node.j para crear un backend para el envío de notificaciones]
 
 10º Lanza el proyecto y ojo, abre la consola de chrome del navegador, deberás asegurate, que se registra el Service Worker y que te aparece el mensaje de aceptar notificaciones, ojoooo, sigue mirando la consola, te deberá llegar tu toke de firebase. Si lo has conseguido, enhorabuena, ya te llegan notificaciones
 
