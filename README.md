@@ -35,7 +35,7 @@ Y poco más!!!! Comparte código siempre!!!!
 
 +++++++++++++++++++++++++++++++++++
 
-Recuerda, necesitas una cuenta en firebase, necesitas meter los datos en el firebase-messagin.js y /enviroments/envioroment.ts , si lo habres lo veras como xxxxxxxxxxxx, debes meter tus datos
+Recuerda, necesitas una cuenta en firebase, necesitas meter los datos en el firebase-messagin.js y /enviroments/envioroment.ts , si lo abres lo veras como xxxxxxxxxxxx, debes meter tus datos
 
 Recuerda, revisar al inspector de código fuente y revisa que se registra el service worker y recibes el token de firebase
 
