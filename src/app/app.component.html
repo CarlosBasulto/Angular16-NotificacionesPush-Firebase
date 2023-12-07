@@ -11,6 +11,24 @@
 <div>
 
 
+
+    <h1>Enviar Notificación. Requisito, debes tener montado un servidor backend en node</h1>
+    <form (submit)="enviarNotificacion()">
+      <label for="titulo">Título:</label>
+      <br><br>
+      <input type="text" id="titulo" [(ngModel)]="titulo" [ngModelOptions]="{standalone: true}" required>
+
+      <br><br>
+      <label for="cuerpo">Cuerpo:</label>
+      <br><br>      <textarea id="cuerpo" [(ngModel)]="cuerpo" [ngModelOptions]="{standalone: true}" required></textarea>
+      <br><br> 
+      <button type="submit">Enviar Notificación</button>
+    </form>
+
+
+
+
+
     Requisistos
     <br><br>
     Debes crear una cuenta o registrarte en firebase: https://firebase.google.com/
